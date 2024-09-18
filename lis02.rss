@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Roku-Developer-Sample-Feed</title>
+    <link />
+    <description>Feed on video content for testing channel applications built on the Roku developer platform</description>
+    <language>en-us</language>
+    <pubDate>Wed, 11 Nov 2015 20:30:54 GMT</pubDate>
+    <image>
+      <title>Roku-Developer-Sample-Feed</title>
+      <url>http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/channel/1cfd09ab38e54f48be8498e0249f5c83/S9O.600x600.png</url>
+      <width>-1</width>
+      <height>-1</height>
+    </image>
+
+    <item>
+      <title>LAS ESTRELLAS MX</title>
+      <link></link>
+      <description>LAS ESTRELLAS MX</description>
+      <pubDate></pubDate>
+      <guid isPermaLink="false"></guid>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/ts" width="1280" isDefault="true" url="http://startv.solutions:80/canales1/canales1/163307.ts">
+        <media:description></media:description>
+        <media:keywords></media:keywords>
+        <media:thumbnail url="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JCxmQbw1kDjezKtQmuWJWrDEKWo-t5SqTbwqcon3OXNJ.png" />
+        <media:title></media:title>
+      </media:content>
+    </item>
+
+    <item>
+      <title>CANAL 5</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+      <guid isPermaLink="false"></guid>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/ts" width="1280" isDefault="true" url="http://startv.solutions:80/canales1/canales1/87152.ts">
+        <media:description></media:description>
+        <media:keywords></media:keywords>
+        <media:thumbnail url="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JK-_uWWxxUoMJIOpU71drKoEUu1fn3ve_rG_M6s41MxL.png" />
+        <media:title></media:title>
+      </media:content>
+    </item>
+
+    <item>
+      <title>AZTECA 7</title>
+      <link></link>
+      <description>AZTECA 7</description>
+      <pubDate></pubDate>
+      <guid isPermaLink="false"></guid>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/ts" width="1280" isDefault="true" url="http://startv.solutions:80/canales1/canales1/87147.ts">
+        <media:description>AZTECA 7</media:description>
+        <media:keywords></media:keywords>
+        <media:thumbnail url="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JNwR-La9CcbI9GfdyYbeWsYrcRXgTzpJo8MWDUKr6fKQ.png" />
+        <media:title>AZTECA 7</media:title>
+      </media:content>
+    </item>
+
+    <item>
+      <title>AZTECA UNO</title>
+      <link></link>
+      <description></description>
+      <pubDate></pubDate>
+      <guid isPermaLink="false"></guid>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/ts" width="1280" isDefault="true" url="http://startv.solutions:80/canales1/canales1/87084.ts">
+        <media:description></media:description>
+        <media:keywords></media:keywords>
+        <media:thumbnail url="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JNV4fPGNgZ_CsZxTfaEZ6HikVVkvQkEKlBRXEyGVMFb8.png" />
+        <media:title></media:title>
+      </media:content>
+    </item>
+
+  </channel>
+</rss>
